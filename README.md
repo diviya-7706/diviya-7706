@@ -1,5 +1,5 @@
 ## Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Diviya 
-**A Engineering Stdent trying to figure out how to buid and what we learn from that.**
+**A Engineering Student trying to figure out how to buid and what we learn from that.**
 
 ----
 I'm a passionate developer with a keen interest in **Data Analysis** and **Web Development** 
