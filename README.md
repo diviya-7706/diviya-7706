@@ -13,8 +13,8 @@ Currently i'm working on Projects to build my skills + to update my Resume but s
 
 **Reach me through:**
 - 📧 Email: diviyadharshinisasikumar@gmail.com
-- 💼 LinkedIn: 
-- 💻 GitHub: 
+- 💼 LinkedIn: https://www.linkedin.com/in/diviyadharshini7706/
+- 💻 GitHub: https://github.com/diviya-7706
 ------
 **Learning Tools and Technologies**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
